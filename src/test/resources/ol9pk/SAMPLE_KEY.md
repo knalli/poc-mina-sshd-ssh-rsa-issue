@@ -1,0 +1,1 @@
+This is a sample key. Don't use it in production :)
